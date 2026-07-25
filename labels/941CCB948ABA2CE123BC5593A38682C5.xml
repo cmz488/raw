@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>941CCB948ABA2CE123BC5593A38682C5.jpg</filename>
+	<path>/home/cmz488/Projects/python_file/diansai_version/yolo/raw/images/941CCB948ABA2CE123BC5593A38682C5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1239</xmin>
+			<ymin>1898</ymin>
+			<xmax>1320</xmax>
+			<ymax>1979</ymax>
+		</bndbox>
+	</object>
+</annotation>
